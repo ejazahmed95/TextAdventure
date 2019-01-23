@@ -1,0 +1,7 @@
+Your adventure begins here! The 3 logs are set and its time to decide your next destination.
+
+The middle log is shaking quite a bit, is it broken? I probably should take a safer route.
+
+Which log should I follow?
+1. Follow the left log
+2. Follow the right log
